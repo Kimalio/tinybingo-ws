@@ -1,0 +1,15 @@
+{
+    "name": "tinybingo-ws",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Yjs WebSocket server for TinyBingo",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ws": "^8.17.0",
+        "y-websocket": "^1.5.0",
+        "yjs": "^13.6.15"
+    }
+}
