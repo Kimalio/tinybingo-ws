@@ -1,2 +1,2 @@
 # tinybingo-ws
-То, сё, 5, 10
+ER TinyBingo Server
